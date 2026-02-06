@@ -16,6 +16,9 @@ Converts LabPBR textures into a fully functional Principled BSDF
 ### LabPBR to AOV Output
 Exports LabPBR textures into AOV channels
 
+### Convert GL to DX Normal
+Converts GL normal maps to DX normal maps (mainly for artists who are used with GL normal maps)
+
 the channels being:
 1. `color` LabPBR Specular
 2. `value` LabPBR S Alpha
